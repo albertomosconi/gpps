@@ -12,6 +12,19 @@ An annoying side-effect to this is that now whenever I reopen the browser and ac
 
 With this extension, this page gets automatically skipped, saving me some clicks.
 
-# Install
+## Install
 
-Click here to install on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gpps/ 'Firefox')
+Follow the instructions below according to your browser.
+
+### Firefox
+
+[Visit this link](https://addons.mozilla.org/en-US/firefox/addon/gpps/ 'Visit this link') and click on `Add to Firefox`
+
+### Chrome
+
+If you're using Chrome you will need to install GPPS manually:
+
+1. Visit the [releases page](https://github.com/albertomosconi/gpps/releases 'releases page').
+2. Download the `gpps-chrome.zip` file and extract it somewhere on your disk.
+3. Go to Chrome's extensions page, **activate developer mode**.
+4. Click on `load unpacked` and select the folder you just extracted.
