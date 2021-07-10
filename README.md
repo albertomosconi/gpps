@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/get_started128.png" width="100"></p>
+<p align="center"><img src="./chrome/images/128.png" width="100"></p>
 
 <h1 align="center">Google Privacy Page Skip</h1>
 
