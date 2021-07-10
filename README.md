@@ -6,8 +6,12 @@ Skips the privacy page when opening Youtube or any Google page for the first tim
 
 ## Motivation
 
-Due to privacy reasons I've setup my browser so that when its closed all cookies, cache, and history get deleted. 
+Due to privacy reasons I've setup my browser so that when its closed all cookies, cache, and history get deleted.
 
 An annoying side-effect to this is that now whenever I reopen the browser and access a Google website a privacy policy page pops up.
 
 With this extension, this page gets automatically skipped, saving me some clicks.
+
+# Install
+
+Click here to install on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/gpps/ 'Firefox')
