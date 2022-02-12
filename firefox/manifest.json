@@ -11,7 +11,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{f40b6e2f-8e25-4ed7-8bec-50c360547a1f}",
+      "id": "{04383b72-95e7-4498-88fa-228b67ce9d1a}",
       "strict_min_version": "57.0"
     }
   },
@@ -21,12 +21,13 @@
   },
   "browser_action": {
     "default_icon": "/images/48.png",
-    "default_title": "YT Skip",
+    "default_title": "GPPS",
     "default_popup": "popup.html"
   },
   "content_scripts": [
     {
-      "matches": ["https://consent.youtube.com/*", "https://*.google.com/*"],
+      "run_at": "document_end",
+      "matches": ["https://consent.youtube.com/*"],
       "js": ["./js/skip.js"]
     }
   ]
