@@ -1,7 +1,7 @@
 {
   "name": "GPPS",
   "description": "Google Privacy Page Skip",
-  "version": "1.1",
+  "version": "1.2",
   "manifest_version": 3,
   "icons": {
     "16": "/images/16.png",
@@ -9,7 +9,7 @@
     "48": "/images/48.png",
     "128": "/images/128.png"
   },
-  "permissions": ["storage", "activeTab", "scripting"],
+  "permissions": [],
   "background": {
     "service_worker": "background.js"
   },
