@@ -26,9 +26,4 @@ Follow the instructions below according to your browser.
 
 ### Chrome
 
-If you're using Chrome you will need to install GPPS manually:
-
-1. Visit the [releases page](https://github.com/albertomosconi/gpps/releases 'releases page').
-2. Download the `gpps-chrome.zip` file and extract it somewhere on your disk.
-3. Go to Chrome's extensions page, **activate developer mode**.
-4. Click on `load unpacked` and select the folder you just extracted.
+[Visit this link](https://chrome.google.com/webstore/detail/gpps/jkpiccdjdfimkaogodheddbfhinmjcma) and click on `Add to Chrome`
